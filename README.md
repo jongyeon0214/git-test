@@ -1,1 +1,1 @@
-# git&github특감
+# git&github특강
